@@ -1,0 +1,1 @@
+print('Assalamu\'alaikum wr wb Nahrowi')
